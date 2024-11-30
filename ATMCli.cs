@@ -93,7 +93,8 @@ class Option
 	}
 }
 
-class Deploy
+class ATMCli
+	
 {
 
 	public static void Main(string[] args)
